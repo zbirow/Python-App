@@ -23,6 +23,7 @@ Aplikacja pozwala na masową zmianę fragmentów tekstu w nazwach plików. Napis
 ```bash
 # Linux:
 sudo apt-get install python3-tk```
+
 ```bash
 # Windows/macOS:
 pip install tk```
