@@ -22,12 +22,12 @@ Aplikacja pozwala na masową zmianę fragmentów tekstu w nazwach plików. Napis
 ## 🛠️ Instalacja
 ```bash
 # Linux:
-sudo apt-get install python3-tk```
-
-```bash
+sudo apt-get install python3-tk
+```
+```bush
 # Windows/macOS:
 pip install tk```
-
+```
 ## 🚀 Użycie
 #1. Uruchom program:
 python rename_file.py
@@ -52,8 +52,8 @@ Program obsługuje nazwy plików w UTF-8. W przypadku problemów dodaj:
 ```python
 import sys
 sys.stdin.reconfigure(encoding='utf-8')
-sys.stdout.reconfigure(encoding='utf-8')```
-
+sys.stdout.reconfigure(encoding='utf-8')
+```
 
 ## ⚠️ Uwagi
 - Program nie zmienia zawartości plików
