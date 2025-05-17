@@ -20,13 +20,13 @@ Aplikacja pozwala na masową zmianę fragmentów tekstu w nazwach plików. Napis
 - Biblioteka `tkinter`
 
 ## 🛠️ Instalacja
-```bash
 # Linux:
+```bash
 sudo apt-get install python3-tk
 ```
-```bush
 # Windows/macOS:
-pip install tk```
+```bush
+pip install tk
 ```
 ## 🚀 Użycie
 #1. Uruchom program:
