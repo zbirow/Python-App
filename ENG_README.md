@@ -1,7 +1,7 @@
 # Rename File - Bulk Text Replacement Tool for File Names
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![Encoding](https://img.shields.io/badge/Encoding-UTF--8-orange)```
+![Encoding](https://img.shields.io/badge/Encoding-UTF--8-orange)
 
 ## 📌 Description
 The application enables bulk replacement of text fragments in file names. Written in Python using `tkinter`.
