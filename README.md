@@ -1,6 +1,5 @@
 # Rename file - Narzędzie do masowej zmiany tekstu w nazwach plików
 
-```markdown
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Encoding](https://img.shields.io/badge/Encoding-UTF--8-orange)```
