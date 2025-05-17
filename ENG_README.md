@@ -57,6 +57,7 @@ sys.stdin.reconfigure(encoding='utf-8')
 sys.stdout.reconfigure(encoding='utf-8')
 ```
 ##⚠️ Notes
--The program does not modify file contents
--Works only on files, not folders
--Displays error messages if issues arise
+
+The program does not modify file contents
+Works only on files, not folders
+Displays error messages if issues arise
