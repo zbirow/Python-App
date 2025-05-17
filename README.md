@@ -1,7 +1,7 @@
 # Rename file - Narzędzie do masowej zmiany tekstu w nazwach plików
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![Encoding](https://img.shields.io/badge/Encoding-UTF--8-orange)```
+![Encoding](https://img.shields.io/badge/Encoding-UTF--8-orange)
 
 ## 📌 Opis
 Aplikacja pozwala na masową zmianę fragmentów tekstu w nazwach plików. Napisana w Pythonie z użyciem `tkinter`.
