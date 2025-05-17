@@ -29,11 +29,11 @@ sudo apt-get install python3-tk
 pip install tk
 ```
 ## 🚀 Użycie
-1. Uruchom program:
+**1. Uruchom program:**
 python rename_file.py
 lub [rename_file.exe](https://github.com/zbirow/Rename-file/releases "rename_file.exe") z releases
 
-2.W interfejsie:
+**2.W interfejsie:**
 
 **Kliknij "Wybierz" folder**
 
@@ -41,7 +41,7 @@ lub [rename_file.exe](https://github.com/zbirow/Rename-file/releases "rename_fil
 
 **Kliknij "Zamień tekst"**
 
-#Przykład:  
+**Przykład:**
 **Stary Tekst:** *old_*
 
 **Nowy Tekst:** *new_*
