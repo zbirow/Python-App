@@ -19,7 +19,7 @@ The application enables bulk replacement of text fragments in file names. Writte
 - `tkinter` library
 
 ## 🛠️ Installation
-# Linux:
+Linux:
 ```bash
 sudo apt-get install python3-tk
 ```
